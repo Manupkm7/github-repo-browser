@@ -1,0 +1,17 @@
+.iconSearch {
+    border: none;
+    background: none;
+    top: 1rem;
+    position: absolute;
+    right: 1rem;
+    cursor: pointer;
+    font-size: 2rem;
+    -webkit-transition: .3s color;
+    transition: .3s color;
+}
+.boxSearch {
+    padding: 10px;
+}
+.searchInput {
+    border-bottom: none;
+}
